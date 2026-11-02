@@ -300,7 +300,7 @@ This laboratory is intended for cybersecurity education and authorized security 
 
 ## 👤 Author
 
-**Katyani Singh**  
+**Abhinay joshi**  
 Cybersecurity Intern  
 Trainee ID: `B084C`
 
